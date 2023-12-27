@@ -18,4 +18,4 @@ A simple and intuitive weather app built with React JS. Get accurate and up-to-d
 ## How to Use
 
 1. **Clone the repository:**
-     
+    git clone https://github.com/Gdhanush-13/Weather-App
